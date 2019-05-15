@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FileMirror")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("File and Directory Synchronizer")]
+[assembly: AssemblyDescription("An application to keep two files or directories in sync")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FileMirror")]
+[assembly: AssemblyProduct("File and Directory Synchronizer")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
